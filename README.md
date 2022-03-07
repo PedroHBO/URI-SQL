@@ -28,7 +28,7 @@ The <a href="https://www.urionlinejudge.com.br/judge/pt/login" target="_blank">U
 <li><a href="https://github.com/PedroHBO/URI-SQL/blob/main/2623.sql" target="_blank">URI 2623</a></li>
 <li><a href="https://github.com/PedroHBO/URI-SQL/blob/main/2624.sql" target="_blank">URI 2624</a></li>
 <li><a href="https://github.com/PedroHBO/URI-SQL/blob/main/2625.sql" target="_blank">URI 2625</a></li>
-<li><a href="https://github.com/PedroHBO/URI-SQL/blob/main/2637.sql" target="_blank">URI 2637</a></li>
+<li><a href="https://github.com/PedroHBO/URI-SQL/blob/main/2737.sql" target="_blank">URI 2737</a></li>
 </ul>
 </details>
 
